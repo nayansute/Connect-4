@@ -1,0 +1,6 @@
+<component name="ArtifactManager">
+  <artifact name="connect4">
+    <output-path>$PROJECT_DIR$/../../../../Games</output-path>
+    <root id="root" />
+  </artifact>
+</component>
