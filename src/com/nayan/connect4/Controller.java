@@ -1,4 +1,4 @@
-package com.internshala.connect4;
+package com.nayan.connect4;
 
 import javafx.animation.TranslateTransition;
 import javafx.application.Platform;

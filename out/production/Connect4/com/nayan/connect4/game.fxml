@@ -4,7 +4,7 @@
 <?import javafx.scene.layout.*?>
 <?import javafx.scene.text.*?>
 
-<GridPane fx:id="rootGridPane" style="-fx-background-color: #D9F7F0;" styleClass="#D9F7F0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.internshala.connect4.Controller">
+<GridPane fx:id="rootGridPane" style="-fx-background-color: #D9F7F0;" styleClass="#D9F7F0" xmlns="http://javafx.com/javafx/11.0.1" xmlns:fx="http://javafx.com/fxml/1" fx:controller="com.nayan.connect4.Controller">
 
     <columnConstraints>
         <ColumnConstraints  />
